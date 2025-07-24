@@ -5,7 +5,7 @@ Ich habe es geschrieben, weil ich irgendwann fast zerbrochen wäre –
 und weil ich trotzdem geblieben bin.
 
 Mein Name ist Asterios. Ich bin Vater.  
-Mein erstgeborener Sohn **Niko** kam mit einem offenen Herzen auf die Welt –  
+Mein erstgeborener Sohn **Elias Leon** kam mit einem offenen Herzen auf die Welt –  
 und mit einer Geschichte, die kein Arzt, keine Behörde, kein System verstehen wollte.
 
 **Frühkindlicher Autismus.  
@@ -17,14 +17,17 @@ Manche so erdrückend, dass ich sie am liebsten vergessen möchte –
 nicht, weil sie unwichtig wären, sondern weil ihr Gewicht  
 jeden Tag neu zu tragen war.
 
-Aber Niko hat sie getragen.  
+Aber Elias hat sie getragen.  
 Auf seine Weise.  
 Mit einer Kraft, die mich heute noch sprachlos macht.
 
 Ich habe Nächte an seinem Bett verbracht, in denen die Zeit stillstand.  
-Ich habe ihn gehalten, wenn er nicht sagen konnte, wo es wehtat. 
+Ich habe ihn gehalten, wenn er nicht sagen konnte, wo es wehtat.  
 Ich habe Formulare ausgefüllt, während mein Herz brannte.  
 Ich habe ihn geliebt – bedingungslos – während andere wegschauten.
+
+> Zur Wahrung der Privatsphäre wurden in diesem Buch alle Namen geändert.  
+> Die Erlebnisse aber sind echt – jedes Wort, jede Träne, jede Entscheidung.
 
 Dieses Buch erzählt unsere Geschichte.  
 Nicht in medizinischer Sprache. Nicht in Zahlen und Paragraphen.  
@@ -40,7 +43,7 @@ Ich schreibe dieses Buch für:
 
 - Alle Eltern, die sich manchmal unsichtbar fühlen  
 - Alle Menschen, die glauben, allein zu kämpfen  
-- Und für meinen Sohn **Niko**,  
+- Und für meinen Sohn **Elias**,  
   der mir gezeigt hat, dass das Leben auch dann leuchtet, wenn es dunkel ist
 
 Er hat mich nicht gefragt, ob ich bereit bin.  
