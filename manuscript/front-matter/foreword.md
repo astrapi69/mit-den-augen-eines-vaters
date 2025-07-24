@@ -6,52 +6,52 @@ und weil ich trotzdem geblieben bin.
 
 Mein Name ist Asterios. Ich bin Vater.  
 Mein erstgeborener Sohn **Niko** kam mit einem offenen Herzen auf die Welt –  
-und mit einer Geschichte, die kein Arzt, keine Behörde, kein System ganz verstehen wollte.
+und mit einer Geschichte, die kein Arzt, keine Behörde, kein System verstehen wollte.
 
 **Frühkindlicher Autismus.  
 Typ-1-Diabetes.  
 Fieberkrämpfe und epileptische Anfälle.**
 
-Es gab mehrere Diagnosen.  
-Manche so erdrückend, dass ich sie vergessen möchte –  
-nicht, weil sie unwichtig wären, sondern weil sie zu schwer waren,  
-um sie jeden Tag mitzutragen.
+Diagnosen, die wie Schatten über uns fielen.  
+Manche so erdrückend, dass ich sie am liebsten vergessen möchte –  
+nicht, weil sie unwichtig wären, sondern weil ihr Gewicht  
+jeden Tag neu zu tragen war.
 
-Und doch hat Niko sie getragen.  
+Aber Niko hat sie getragen.  
 Auf seine Weise.  
-Mit einer Kraft, die mich sprachlos macht.
+Mit einer Kraft, die mich heute noch sprachlos macht.
 
-Ich habe Nächte neben ihm verbracht, in denen die Welt still stand.  
-Ich habe ihn gehalten, wenn er nicht sagen konnte, wo es wehtat.  
+Ich habe Nächte an seinem Bett verbracht, in denen die Zeit stillstand.  
+Ich habe ihn gehalten, wenn er nicht sagen konnte, wo es wehtat. 
 Ich habe Formulare ausgefüllt, während mein Herz brannte.  
-Ich habe ihn geliebt, als andere ihn mitleidig ansahen.
+Ich habe ihn geliebt – bedingungslos – während andere wegschauten.
 
 Dieses Buch erzählt unsere Geschichte.  
 Nicht in medizinischer Sprache. Nicht in Zahlen und Paragraphen.  
 Sondern so, wie sie wirklich war –  
-**lautlos, chaotisch, voller Schmerz, voller Liebe.**
+**still und laut zugleich, chaotisch und voller Liebe.**
 
 Es erzählt nicht von Heldentaten.  
-Es erzählt vom **Bleiben**, wo man weglaufen möchte.  
-Vom **Lieben**, obwohl alles zerreißt.  
-Vom **Versuchen**, obwohl man längst aufgeben will.
+Es erzählt vom **Bleiben**, wenn alles in dir weglaufen will.  
+Vom **Lieben**, obwohl es manchmal zerreißt.  
+Vom **Weitermachen**, obwohl die Kraft längst aufgebraucht schien.
 
 Ich schreibe dieses Buch für:
 
-- Alle Eltern, die sich manchmal allein fühlen  
-- Alle Menschen, die glauben, nicht gesehen zu werden  
+- Alle Eltern, die sich manchmal unsichtbar fühlen  
+- Alle Menschen, die glauben, allein zu kämpfen  
 - Und für meinen Sohn **Niko**,  
   der mir gezeigt hat, dass das Leben auch dann leuchtet, wenn es dunkel ist
 
-Er hat mich nicht gefragt, ob ich bereit bin, Vater eines besonderen Kindes zu sein.  
-Aber er hat mir mit jedem Blick gezeigt,  
-dass ich es **trotzdem** bin –  
-und dass das reicht.
+Er hat mich nicht gefragt, ob ich bereit bin.  
+Aber er hat mir mit jedem Blick, jedem Lächeln gezeigt,  
+dass ich es **bin** –  
+und dass das genug ist.
 
 Ich habe lange geschwiegen.  
-Jetzt möchte ich sprechen.  
-Nicht, um zu klagen – sondern um zu zeigen:  
-**Würde lebt in den Geschichten, die man nicht erzählt.**
+Jetzt spreche ich.  
+Nicht, um Mitleid zu wecken – sondern um zu zeigen:  
+**In den Geschichten, die wir nicht erzählen, lebt unsere wahre Stärke.**
 
 Ich erzähle sie jetzt –  
 **mit den Augen eines Vaters.**
