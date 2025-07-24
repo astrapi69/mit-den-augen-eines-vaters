@@ -13,7 +13,7 @@ os.chdir("..")
 BOOK_DIR = "./manuscript"                       # Location of markdown files organized by sections
 OUTPUT_DIR = "./output"                         # Output directory for compiled formats
 BACKUP_DIR = "./output_backup"                  # Backup location for previous output
-OUTPUT_FILE = "book"                            # Base name for the output files #TODO replace with your data
+OUTPUT_FILE = "mit-den-augen-eines-vaters-ebook"# Base name for the output files
 METADATA_FILE = "config/metadata.yaml"          # YAML file for Pandoc metadata (title, author, etc.)
 LOG_FILE = "export.log"                         # Log file for script and Pandoc output/errors
 
@@ -105,7 +105,7 @@ def ensure_metadata_file():
         print(f"⚠️ Metadata file missing! Creating default {METADATA_FILE}.")
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
-            f.write("title: 'CHANGE TO YOUR TITLE'\nauthor: 'YOUR NAME'\ndate: '2025'\nlang: 'en'\n") #TODO replace with your data
+            f.write("title: 'Mit den Augen eines Vaters'\nauthor: 'Asterios Raptis'\ndate: '2025'\nlang: 'en'\n")
 
 
 def compile_book(format, section_order, cover_path=None, force_epub2=False, lang="en"):
