@@ -2,67 +2,102 @@
 
 _Eine wahre Geschichte über Liebe, Verlust und die Kraft, trotzdem dazubleiben._
 
-## 📖 Über dieses Projekt
+## 📖 Über dieses Buch
 
-Dieses Repository enthält den autobiografisch inspirierten Text **„Mit den Augen eines Vaters“** –  
-eine persönliche, aufwühlende und hoffnungsvolle Erzählung eines Vaters,  
-der gemeinsam mit seinem behinderten Sohn durch ein Leben zwischen Systemversagen,  
-alltäglichen Kämpfen und tiefer Liebe geht.
+Dieses Projekt enthält den autobiografisch inspirierten Text **„Mit den Augen eines Vaters“** –  
+eine tief persönliche Erzählung eines Vaters, der seinen behinderten Sohn liebt, begleitet und verteidigt –  
+gegen Krankheit, gegen Vorurteile und gegen die stille Gewalt der Institutionen.
 
-> „Ich bin geblieben – nicht weil es leicht war,  
-> sondern weil mein Sohn mich brauchte.  
-> Und weil ich ihn liebe. Bedingungslos.“
+> _„Ich bin geblieben – nicht weil es leicht war,  
+> sondern weil mein Sohn mich brauchte.“_
 
-Die Geschichte erzählt vom Alltag mit einem autistischen Kind mit Typ-1-Diabetes,  
-von gesellschaftlicher Ausgrenzung, zerbrechenden Beziehungen und familiärer Verantwortung –  
-aber vor allem vom **Mut, Mensch zu bleiben**.
-
----
-
-## 💡 Ziel
-
-Dieses Projekt soll:
-- Betroffenen Mut machen
-- Angehörigen und Fachkräften neue Perspektiven eröffnen
-- und vor allem zeigen, dass **das Leben auch dann wertvoll ist**, wenn es nicht perfekt ist
+Die Geschichte berührt Themen wie:
+- Frühkindlicher Autismus
+- Typ-1-Diabetes bei Kindern
+- Epilepsie bei Kindern
+- Vaterrolle unter extremen Bedingungen
+- Familiäre Konflikte und Systemversagen
+- Würde, Mut und unbedingte Liebe
 
 ---
 
-## 📂 Inhalte
+## 📚 Projektstruktur
 
-- `manuskript/` – Kapitelweise gegliederter Text im Markdown-Format
-- `README.md` – Projektbeschreibung
-- Zukünftig evtl. auch:
-  - EPUB / PDF-Export
-  - Audiofassung (optional)
-  - Weiterführende Links (z. B. zu Unterstützungsangeboten)
+Dieses Repository basiert auf dem [write-book-template](https://github.com/astrapi69/write-book-template)  
+und nutzt automatisierte Tools zur Erstellung und Veröffentlichung von Büchern.
 
----
+📁 Wichtige Verzeichnisse:
 
-## 🤝 Mitmachen
-
-Dies ist ein persönliches Projekt – **keine Community-Doku**, aber Feedback ist willkommen.  
-Respektvolle, konstruktive Rückmeldungen können per Issue oder E-Mail eingebracht werden.  
-Bitte beachte: Es geht um **echte Menschen**. Alles mit Würde.
+- `manuscript/` – Enthält die Kapitel im Markdown-Format (`chapter_01.md`, …)
+- `output/` – Automatisch generierte Ausgabeformate (HTML, EPUB, PDF etc.)
+- `scripts/` – Python-Skripte zur Verarbeitung, Übersetzung, Export
+- `config/` – CSS, Metadaten und Layout-Optionen
 
 ---
 
-## ⚠️ Hinweis
+## 🚀 Verwendung
 
-Die Erzählung basiert auf realen Erfahrungen.  
-Namen und Details können aus Gründen des Persönlichkeitsschutzes teilweise verändert sein.  
-Jegliche Form der Weiterverwendung bedarf der Zustimmung des Autors.
+Installiere alle Abhängigkeiten:
 
----
+```bash
+poetry install
+```
 
-## 🧑‍💻 Autor
+Erzeuge z. B. eine PDF-Version des Buches:
+
+```bash
+poetry run full-export --format pdf
+```
+
+> Weitere Infos findest du im Template-Projekt:  
+> 👉 [write-book-template](https://github.com/astrapi69/write-book-template)
+
+* * *
+
+❤️ Warum dieses Buch?
+---------------------
+
+Weil jede Geschichte zählt.  
+Weil echte Väter zu selten gehört werden.  
+Weil Menschen wie Nico uns lehren, was es heißt, **zu leben und nicht nur zu funktionieren.**
+
+Dieses Buch ist ein Versuch, sichtbar zu machen, was oft im Verborgenen leidet.  
+Es soll Mut machen, berühren und erinnern.
+
+* * *
+
+📣 Mitmachen & Feedback
+-----------------------
+
+Dieses Projekt ist öffentlich weil die Geschichte **gesehen werden soll**.  
+Konstruktives, respektvolles Feedback ist willkommen.  
+Bitte keine technischen Pull Requests ohne Absprache.
+
+* * *
+
+
+⚠️ Rechtliches
+--------------
+
+Die Geschichte basiert auf realen Erfahrungen.  
+Namen und Details wurden ggf. aus Gründen des Persönlichkeitsschutzes angepasst.  
+Keine kommerzielle Weiterverwendung ohne schriftliche Genehmigung des Autors.
+
+## Lizenz
+
+Dieses Werk steht unter der [Creative Commons Namensnennung-Nicht kommerziell-Keine Bearbeitung 4.0 International Lizenz (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de).
+
+Der vollständige Lizenztext ist in der Datei [`LICENSE`](./LICENSE) enthalten.
+
+* * *
+
+🧑‍💻 Autor
+-----------
 
 **Asterios Raptis**  
-Autor, Vater, Softwareentwickler – und Mensch, der mit dem Herzen schreibt.
+GitHub: [@astrapi69](https://github.com/astrapi69) 
 
-GitHub: [@astrapi69](https://github.com/astrapi69)
-
----
+* * *
 
 > _„Mit den Augen eines Vaters zu sehen, heißt:  
-> nicht nur durchzublicken, sondern durchzuhalten.“_
+> nicht nur durchzublicken sondern durchzuhalten.“_
