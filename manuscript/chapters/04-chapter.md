@@ -271,6 +271,12 @@ wie ein Fundament, das von innen heraus zerstört wird.
 Und ich? Ich sah es passieren  
 und wusste nicht, wie ich es aufhalten sollte.
 
+> Dann kam der Sommer 2017.  
+> „Ich fahre mit den Kindern und meine Schwester und ihren Ehemann nach Armenien“, sagte sie.  
+> Urlaub, angeblich. Ich half beim Packen.   
+> Während ich wartete, lernte sie einen anderen kennen – vermittelt von ihrer Mutter.  
+> Als sie zurückkam, war nichts mehr wie vorher.
+
 ---
 
 2018 oder 2019 – die Jahre verschwimmen in meiner Erinnerung zu einem grauen Nebel aus Krisen und Streit –  
@@ -311,19 +317,19 @@ Die Kinder schliefen bereits.
 Wir saßen im Wohnzimmer, jeder an seinem Ende des Sofas,  
 wie Fremde, die zufällig im selben Raum gelandet waren.
 
-"Ich fahre mit den Kindern nach Armenien", sagte sie unvermittelt.  
-"Nur Urlaub. Bei meiner Familie."
+"Ich fahre nach Armenien", sagte sie unvermittelt.  
+"Nur Urlaub. Bei meinen Eltern."
 
 Ich nickte automatisch.  
 Warum auch nicht? Sie brauchte eine Pause.  
 Wir alle brauchten eine Pause.  
 "Wie lange?", fragte ich.
 
-"Drei Wochen. Vielleicht vier."
+"Zwei Wochen. Vielleicht drei  oder auch vier."
 
 Ich ließ sie fahren.  
 Organisierte sogar den Flug, half beim Packen,  
-brachte sie und die Kinder zum Flughafen.
+brachte sie zum Flughafen.
 
 Aber mein Bauch sagte mir: Das ist kein Urlaub.  
 Das ist etwas anderes.  
@@ -336,10 +342,9 @@ Ein anderer Mann. Armenier, wie sie.
 Von ihrer Mutter arrangiert, vorgestellt, empfohlen.  
 Für ein neues Leben – ohne mich.
 
-Während ich in Ludwigsburg saß und auf ihre Rückkehr wartete,  
+Während ich in Ludwigsburg mit Elias, Sandro und Dario saß und auf ihre Rückkehr wartete,  
 lernte sie einen anderen kennen.  
 Während ich mir Sorgen machte und die Tage zählte,  
-bis ich meine Kinder wiedersehen würde,  
 entschied sie sich für eine andere Zukunft.
 
 ---
