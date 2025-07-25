@@ -1,4 +1,4 @@
-# Kapitel 3: Kein Platz in Hamburg
+# Kapitel 3: Kein Platz in Hamburg {#chapter-03}
 
 Unsere Wohnung in Hamburg hatte zweieinhalb Zimmer.  
 60 Quadratmeter in einem Altbau im dritten Stock, ohne Aufzug.  

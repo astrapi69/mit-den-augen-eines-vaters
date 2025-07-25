@@ -1,4 +1,4 @@
-# Vorwort
+# Vorwort {#foreword}
 
 Ich habe dieses Buch nicht geschrieben, weil ich stark bin.  
 Ich habe es geschrieben, weil ich irgendwann fast zerbrochen wäre –  
