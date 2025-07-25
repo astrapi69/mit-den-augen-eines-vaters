@@ -1,6 +1,6 @@
 # Über den Autor
 
-**Asterios Raptis**, geboren 1979, ist Vater von drei Söhnen –  
+**Asterios Raptis**, ist Vater von drei Söhnen –  
 darunter  Elias, ein Kind mit frühkindlichem Autismus und Typ-1-Diabetes.
 
 Er lebt in Deutschland und arbeitet seit über 20 Jahren als Softwareentwickler und Autor.  
