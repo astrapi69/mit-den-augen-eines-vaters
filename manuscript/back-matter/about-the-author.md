@@ -19,4 +19,7 @@ in denen Worte keine Rolle spielen –
 weil die Verbindung längst da ist.
 
 Mehr über seine Arbeit unter:  
-[github.com/astrapi69](https://github.com/astrapi69)
+
+* ★ [LinkedIn](https://www.linkedin.com/in/asterios-raptis-46824a31/)
+* ⌀ [GitHub](https://github.com/astrapi69)
+* ✎ [Medium.com](https://asterios-raptis.medium.com/)
