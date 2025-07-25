@@ -325,7 +325,7 @@ Warum auch nicht? Sie brauchte eine Pause.
 Wir alle brauchten eine Pause.  
 "Wie lange?", fragte ich.
 
-"Zwei Wochen. Vielleicht drei  oder auch vier."
+"Zwei Wochen. Vielleicht drei oder auch vier."
 
 Ich ließ sie fahren.  
 Organisierte sogar den Flug, half beim Packen,  
