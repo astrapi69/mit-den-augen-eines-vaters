@@ -1,102 +1,146 @@
 # Kapitel 5: Der Bruch
 
 Irgendwann war der Punkt erreicht,  
-an dem ich wusste: Wenn ich bleibe, zerstöre ich alles.
+an dem ich wusste: **Wenn ich bleibe, zerstöre ich alles.**
 
 Nicht weil ich nicht mehr liebte.  
 Sondern weil ich nicht mehr konnte.  
-Weil jeder Schritt, jedes Gespräch, jeder Blick nur noch brannte.
+Weil jeder Schritt, jedes Gespräch, jeder Blick  
+nur noch wie Feuer auf meiner Haut brannte.
 
 Ich war nicht mehr Partner.  
-Ich war nicht mehr Mann.  
-Ich war nur noch Funktion.  
-Versorger. Organisator. Zielscheibe.
+Nicht mehr Ehemann.  
+Nicht mehr der Mann, mit dem alles begann.
 
-Und als auch noch die Kinder zwischen uns gestellt wurden,  
-war klar:  
-Wenn ich Elias – wenn ich **uns alle** – retten wollte,  
+Ich war nur noch Funktion.  
+Versorger. Organisator. Zielscheibe.  
+Ein Schatten, der alles zusammenhielt –  
+und daran langsam zerbrach.
+
+Als schließlich auch die Kinder zwischen uns gestellt wurden,  
+nicht mehr als gemeinsames Band,  
+sondern als Druckmittel, als Vorwurf, als Grenze,  
+war klar:
+
+Wenn ich **Elias** retten wollte –  
+wenn ich **uns alle** retten wollte –  
 musste ich gehen.
 
-Ich zog aus.  
-Nicht freiwillig, nicht leichten Herzens.  
-Aber es war der einzige Weg, der nicht in völliger Zerstörung endete.
+---
 
-Zu dieser Zeit wurden auch meine Eltern immer schwächer.  
-Meine Mutter – damals 83 – zeigte erste Zeichen von Demenz.  
-Mein Vater – 87 – kämpfte seit Jahren mit den Spätfolgen von Poliomyelitis.  
-Sein rechtes Bein war betroffen.  
-Er konnte kaum noch laufen.  
+Ich zog aus.  
+Nicht freiwillig.  
+Nicht, weil ich aufgab.  
+Sondern weil ich wusste,  
+dass man manchmal loslassen muss,  
+wenn das Festhalten nur noch verletzt.
+
+Zu dieser Zeit wurden auch meine Eltern schwächer.  
+Meine Mutter – damals 83 –  
+zeigte erste Zeichen der Demenz.  
+Mein Vater – 87 – war gezeichnet von Poliomyelitis,  
+sein rechtes Bein kaum noch zu gebrauchen.  
 Er verließ das Haus fast nie.
 
 Sie brauchten mich.  
 Und ich war da.
 
-Ich pendelte zwischen Rollen,  
-die alle zu viel waren, aber niemanden hatten außer mir.
+Zwischen Umzugskartons und Pflegeprotokollen  
+pendelte ich durch ein Leben, das längst zu viel war.  
+Aber niemanden hatte außer mir.
 
-Ich war Pfleger. Sohn. Vater.  
-Und doch so oft allein.
+Ich war Sohn.  
+Ich war Vater.  
+Ich war Pfleger.
 
-** Elias** lebte zu diesem Zeitpunkt schon im Wohnheim.  
-Nicht, weil wir ihn abgeschoben hätten.  
-Sondern weil wir ihn dort endlich in Sicherheit wussten.
+Und ich war oft einfach: allein.
 
-Er hatte Struktur.  
-Pflegepersonal.  
-Einen Platz, an dem nicht alles ständig überforderte.
+---
 
-Und trotzdem: Ich besuche ihn.  
+**Elias** lebte zu diesem Zeitpunkt bereits im Wohnheim.  
+Nicht, weil wir ihn abgeschoben hätten –  
+sondern weil wir ihn dort  
+endlich in **Sicherheit** wussten.
+
+Ein Zimmer für sich.  
+Feste Abläufe. Menschen, die geschult waren.  
+Eine Welt mit klaren Grenzen,  
+die ihn weniger überforderte als unser Chaos zu Hause.
+
+Und doch: Ich besuche ihn.  
 So oft ich kann.  
 Denn er ist mein Sohn.  
-Er bleibt mein Herz.
+Er bleibt mein Herz.  
+Auch wenn das Herz blutet.
 
-Was viele nicht verstehen:  
-Bei Elias war es nie der Autismus, der uns kaputt gemacht hat.  
-Es war nicht die Krankheit.  
-Nicht die Pflege.  
-Nicht der Aufwand.
+---
 
-Es war die Einsamkeit in einem System,  
-das uns nie aufgefangen hat.  
+Viele verstehen nicht,  
+was wirklich zerstört hat.
+
+Es war nicht der Autismus.  
+Nicht die Krankheit.  
+Nicht die Pflege. Nicht der Aufwand.
+
+Es war die Einsamkeit.  
+Die Art, wie man durch ein System fällt,  
+das nur für die Starken gebaut ist.
+
 Es waren die Blicke. Die Urteile. Das Schweigen.  
-Es war das Gefühl, ständig zu stören.  
-Zu viel zu sein.
+Es war das permanente Gefühl, **nicht zu passen**.  
+**Zu viel** zu sein. **Zu laut. Zu auffällig. Zu anders.**
 
-Und dann war da noch die Pumpe.
+---
 
-Elias hatte eine Insulinpumpe mit Katheter.  
+Und dann war da noch die Pumpe.  
+Elias’ Insulinpumpe – ein kleines Gerät,  
+das Leben retten sollte,  
+aber uns oft den Verstand raubte.
+
 Alle zwei, drei Tage musste der Katheter gewechselt werden.  
-Manchmal auch mehrmals am Tag –  
-wenn Luft in den Schlauch kam, wenn etwas verstopft war, wenn die Pumpe Fehlalarme auslöste.
+Manchmal auch zwei-, dreimal am Tag –  
+wenn Luft im Schlauch war,  
+wenn die Pumpe streikte,  
+wenn plötzlich alles piepte und blinkte und Alarm schlug.
 
 Jeder Wechsel war ein Albtraum.  
-Nicht nur für ihn – auch für uns.  
-Aber vor allem für **ihn**.
+Nicht nur für ihn –  
+aber **vor allem für ihn**.
 
-Er konnte nicht sagen, wo es wehtat.  
+Elias konnte nicht sagen, wo es schmerzte.  
+Er konnte nicht erklären, was ihn störte.  
 Er konnte nur schreien.  
-Weinen.  
-Sich winden.  
+Sich winden. Weinen.  
 Und ich konnte ihn nur halten –  
-ohne ihm helfen zu können.
+und dabei selbst fast zerbrechen.
 
-Denn ** Elias hat frühkindlichen Autismus**.  
+---
+
+Denn Elias hat frühkindlichen Autismus.  
 Er spricht nicht.  
 Nicht in Worten.  
 Aber ich habe gelernt, ihn trotzdem zu verstehen.
 
-Manchmal durch einen Blick.  
-Manchmal durch eine Bewegung.  
-Manchmal nur durch das, was **nicht** da war.
+Durch einen Blick.  
+Eine Bewegung.  
+Ein Zucken der Hand.  
+Ein Schweigen, das mehr sagt als Sprache es je könnte.
 
 Ich habe ihn gesehen.  
-Ich sehe ihn immer noch.
+Ich sehe ihn noch.  
+Jeden Tag.
+
+---
 
 Und obwohl alles zerbrach –  
 die Ehe, die Wohnung, die Gewissheiten –  
 blieb etwas bestehen:
 
-Meine Liebe zu ihm.  
+**Meine Liebe zu ihm.**
+
 Sie ist heute stiller.  
-Aber sie ist da.  
+Sie kommt ohne große Gesten aus.  
+Ohne Worte.  
+Aber sie ist da.
+
 Tiefer denn je.
