@@ -20,6 +20,21 @@ Nicht als Konzept. Nicht als romantische Idee aus Filmen oder Büchern.
 Sondern als greifbares, atembares Gefühl, das sich wie flüssiges Licht in mir ausbreitete und jeden Winkel meines
 Herzens erreichte.
 
+In diesem Moment der überwältigenden Liebe und des Staunens  
+trafen wir eine Entscheidung, die damals wie eine kleine Versicherung erschien:  
+Wir ließen Elias' Nabelschnur-Stammzellen einlagern.  
+„Für alle Fälle", sagte der Arzt.  
+„Falls er jemals eine schwere Krankheit bekommen sollte,  
+haben Sie zumindest etwas, womit man helfen könnte."
+
+Es kostete viel Geld, das wir eigentlich nicht hatten.  
+Aber es gab uns ein gutes Gefühl.  
+Als würden wir unserem neugeborenen Sohn  
+schon in seinen ersten Lebensminuten  
+eine Art Schutzschild mit auf den Weg geben.  
+Eine Hoffnung für eine ungewisse Zukunft,  
+die damals noch so strahlend aussah.
+
 Ich war Vater.  
 Diese zwei Worte – „Ich bin Vater" – klangen in mir nach wie ein Echo in einer Kathedrale.  
 Und alles, was ich bis dahin über das Leben zu wissen geglaubt hatte, jede Gewissheit, jede Priorität, jeder Plan –  
