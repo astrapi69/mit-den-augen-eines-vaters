@@ -1,4 +1,4 @@
-# Kapitel 8: Ich sehe dich,  Elias
+# Kapitel 8: Ich sehe dich, Elias
 
 Manchmal frage ich mich, ob du weißt, wie sehr ich dich liebe.
 
@@ -9,7 +9,7 @@ Aber du bist da.
 Und ich bin da.  
 Und das reicht.
 
-Ich sehe dich,  Elias.
+Ich sehe dich, Elias.
 
 Nicht durch Diagnosen.  
 Nicht durch Akten.  
@@ -68,7 +68,7 @@ Und ich werde bleiben.
 Solange ich atme.  
 Solange du mich brauchst.
 
-Ich sehe dich,  Elias.  
+Ich sehe dich, Elias.  
 Und ich danke dir.
 
 Für dein Licht.  

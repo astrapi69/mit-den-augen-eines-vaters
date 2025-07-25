@@ -5,7 +5,7 @@ Unsere Wohnung in Hamburg hatte zweieinhalb Zimmer.
 Das klingt nüchtern – war aber gefühlt:  
 zu eng, zu laut, zu voll für das, was wir noch werden sollten.  
 Eine Familie mit drei kleinen Kindern.
- 
+
 Ein Kind mit Diabetes, das rund um die Uhr überwacht werden musste.  
 Ein Kind mit Autismus, das seine eigenen Rituale und Rückzugsorte brauchte.  
 Und Eltern, die längst auf dem Zahnfleisch gingen  

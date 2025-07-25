@@ -12,8 +12,8 @@ Und gegen ein System, das nichts von meiner Geschichte wissen wollte.
 
 > „Er kümmert sich nicht um seine Kinder.“  
 > „Er ist ein schlechter Vater.“  
-> „Er hat sich zurückgezogen.“  
->  
+> „Er hat sich zurückgezogen.“
+>
 > So lauteten die Vorwürfe.
 
 Ich?  
@@ -43,7 +43,7 @@ Ich gab ihn ihr.
 Weil ich vertraute.  
 Weil ich dachte, sie würde fair bleiben.
 
-Wenig später behauptete sie:  
+Wenig später behauptete sie:
 > „Diesen Ehevertrag hat es nie gegeben.“
 
 Und meiner – mein Exemplar – war verschwunden.
@@ -67,7 +67,7 @@ außer dass man **nicht alles gegen ihn verwendet**,
 was er mit offenem Herzen gegeben hat.
 
 Und während ich vor Gericht stand,  
-dachte ich nur an  Elias.  
+dachte ich nur an Elias.  
 An seine Blicke.  
 Sein Lachen.  
 Sein Vertrauen.

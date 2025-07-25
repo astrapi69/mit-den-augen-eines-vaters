@@ -14,7 +14,7 @@ Versorger. Organisator. Zielscheibe.
 
 Und als auch noch die Kinder zwischen uns gestellt wurden,  
 war klar:  
-Wenn ich  Elias – wenn ich **uns alle** – retten wollte,  
+Wenn ich Elias – wenn ich **uns alle** – retten wollte,  
 musste ich gehen.
 
 Ich zog aus.  
@@ -51,7 +51,7 @@ Denn er ist mein Sohn.
 Er bleibt mein Herz.
 
 Was viele nicht verstehen:  
-Bei  Elias war es nie der Autismus, der uns kaputt gemacht hat.  
+Bei Elias war es nie der Autismus, der uns kaputt gemacht hat.  
 Es war nicht die Krankheit.  
 Nicht die Pflege.  
 Nicht der Aufwand.
@@ -64,7 +64,7 @@ Zu viel zu sein.
 
 Und dann war da noch die Pumpe.
 
- Elias hatte eine Insulinpumpe mit Katheter.  
+Elias hatte eine Insulinpumpe mit Katheter.  
 Alle zwei, drei Tage musste der Katheter gewechselt werden.  
 Manchmal auch mehrmals am Tag –  
 wenn Luft in den Schlauch kam, wenn etwas verstopft war, wenn die Pumpe Fehlalarme auslöste.

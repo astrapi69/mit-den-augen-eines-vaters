@@ -45,7 +45,7 @@ Er erkennt mich.
 Er weiß, dass ich da bin.  
 Noch immer.
 
- Elias ist nicht geheilt.  
+Elias ist nicht geheilt.  
 Er wird nie „normal“ sein –  
 was auch immer das heißen soll.
 
