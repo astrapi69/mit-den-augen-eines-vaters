@@ -1,77 +1,109 @@
 # Kapitel 8: Ich sehe dich, Elias
 
-Manchmal frage ich mich, ob du weißt, wie sehr ich dich liebe.
+Manchmal frage ich mich, ob du weißt, wie sehr ich dich liebe.  
+Ob du es spürst, wenn ich komme.  
+Ob du meinen Geruch erkennst, meine Schritte.  
+Ob du weißt,  
+dass ich nie aufgehört habe, dein Vater zu sein –  
+nicht einen einzigen Tag.
 
-Du kannst es nicht sagen.  
-Du schreibst keine Karten zum Vatertag.  
-Du malst keine Herzen auf Papier.  
+Du sprichst nicht.  
+Du fragst nicht.  
+Du erwartest nichts.  
 Aber du bist da.  
 Und ich bin da.  
 Und das reicht.
 
+---
+
 Ich sehe dich, Elias.
 
-Nicht durch Diagnosen.  
-Nicht durch Akten.  
-Nicht durch das, was andere in dir sehen wollen.
+Ich sehe dich,  
+wenn du still auf deinem Platz sitzt  
+und mit einem Faden spielst,  
+als wäre er das Wichtigste auf der Welt.  
+Ich sehe, wie du dich verlierst –  
+nicht weil du abwesend bist,  
+sondern weil du ganz bei dir bist.  
+In deiner Ordnung.  
+In deinem Rhythmus.
 
 Ich sehe dich,  
-wenn du summst, weil du zufrieden bist.  
-Wenn du dich an Geräuschen störst, die niemand bemerkt.  
-Wenn du auf deine eigene Weise „Ja“ sagst –  
-mit einem Blick, einem Zucken, einem kurzen Innehalten.
+wenn du laut wirst,  
+wenn dich etwas überfordert –  
+ein Geräusch, ein Schatten, ein Geruch, den ich nicht einmal wahrnehme.  
+Ich sehe dich ringen mit einer Welt,  
+die dich nicht fragt, ob sie dir zu viel ist.
+
+Und ich sehe dich,  
+wenn du ruhig wirst,  
+wenn ich komme,  
+wenn meine Hand auf deiner Schulter liegt,  
+wenn du weißt:  
+> „Es ist gut. Papa ist da.“
+
+---
+
+Ich habe dich nie erwartet, Elias.  
+Nicht so.  
+Nicht mit so vielen Diagnosen, so viel Schmerz, so viel Verantwortung.  
+Aber ich habe dich empfangen.  
+Mit meinem ganzen Herzen.  
+Und ich habe nie aufgehört, dich zu tragen –  
+auch dann,  
+wenn ich selbst kaum noch stehen konnte.
+
+Ich sehe dich, Elias.
+
+Nicht durch die Brille der Berichte.  
+Nicht durch die Worte von Ärzten,  
+die dich in Tabellen zerlegen.  
+Nicht durch die Urteile von Menschen,  
+die dich nicht verstehen.
 
 Ich sehe dich,  
-wenn du stundenlang mit Wasser spielst  
-oder mit Dingen, die andere längst weggeworfen hätten.  
-Du brauchst keine Spielsachen.  
-Du brauchst Ordnung, Wiederholung, dein eigenes Tempo.  
-Und ich habe gelernt, das zu respektieren.
+weil du mein Sohn bist.  
+Weil ich dich liebe –  
+bedingungslos.  
+Weil du mich gelehrt hast,  
+was wirkliche Nähe bedeutet.
 
-Ich sehe dich,  
-wenn du leidest –  
-auch wenn du es nicht sagen kannst.  
-Wenn die Pumpe streikt.  
-Wenn dein Körper dich im Stich lässt.  
-Wenn du dich in deinem Schmerz verlierst  
-und ich dich nicht erreiche.
+---
 
-Dann halte ich dich.  
-Oder ich halte es aus.  
-Weil ich nichts anderes tun kann.
+Du hast nie "Papa" gesagt.  
+Aber du hast mich nie vergessen.  
+Dein Blick sagt mehr als jeder Laut.
 
-Ich habe dich geliebt,  
-bevor du einen Namen hattest.  
-Und ich liebe dich jetzt,  
-wo du mir jeden Tag beibringst,  
-dass Leben nicht in Worten geschieht –  
-sondern in Nähe.
+Du lachst manchmal,  
+wenn ich komme.  
+Oder du schweigst.  
+Aber in deinem Schweigen liegt alles,  
+was ich wissen muss.
 
-Du bist mein Lehrer.  
-Du hast mir gezeigt,  
-dass Freude möglich ist trotz Schmerz.  
-Dass das Leben lebenswert ist –  
-auch wenn es nicht einfach ist.  
-Auch wenn es nie einfach war.
+Du bist nicht wie andere.  
+Du bist wie **du**.  
+Und das ist genug.
 
-Du hast mich zu dem gemacht, der ich heute bin.  
-Nicht durch Erziehung.  
-Sondern durch dein Sein.
+---
 
-Und auch wenn ich vieles nicht ändern konnte –  
-auch wenn ich Fehler gemacht habe –  
-auch wenn ich manchmal müde war:
+Ich weiß nicht, was die Zukunft bringt.  
+Ich weiß nicht, wie lange ich dich begleiten darf.  
+Aber ich weiß:  
+Solange ich kann,  
+werde ich da sein.
 
-Ich bin geblieben.
-
-Und ich werde bleiben.  
-Solange ich atme.  
-Solange du mich brauchst.
+In welcher Form auch immer.  
+Als Stimme.  
+Als Besuch.  
+Als Erinnerung.  
+Oder einfach nur als leiser Teil deiner Welt,  
+den du nicht benennen kannst –  
+aber fühlst.
 
 Ich sehe dich, Elias.  
 Und ich danke dir.
 
 Für dein Licht.  
-Für deine Kraft.  
+Für deinen Mut.  
 Für deine Stille,  
-die mehr sagt als tausend Worte.
+die lauter spricht als alle Worte der Welt.

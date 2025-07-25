@@ -1,80 +1,150 @@
 # Kapitel 7: Was bleibt – Leben in zwei Richtungen
 
-Ich lebe in zwei Welten.
+Ich lebe in zwei Richtungen.  
+Manchmal fühlt es sich an, als würde mein Herz  
+versuchen, zwei Leben gleichzeitig zu tragen.
 
-In der einen pflege ich meine Eltern.  
-Meine Mutter – inzwischen tief in ihrer Demenz versunken.  
-Mein Vater – alt, schwach, still.  
-Sein rechtes Bein trägt ihn kaum noch.  
-Ich helfe ihm beim Gehen. Beim Sitzen. Beim Schweigen.
+---
+
+In der einen Richtung: meine Eltern.  
+Alt geworden.  
+Zerbrechlich wie feines Porzellan.
+
+Meine Mutter – 83 – längst verloren in den Nebeln der Demenz.  
+Manchmal schaut sie mich an, als sei ich ein freundlicher Fremder.  
+Manchmal sagt sie meinen Namen,  
+als würde sie ihn gerade wiederentdecken.  
+Und manchmal ist da nur Stille –  
+schön, schmerzhaft, leer.
+
+Mein Vater – 87 –  
+kämpft noch.  
+Mit seinem Körper. Mit der Zeit.  
+Sein rechtes Bein gezeichnet von Polio.  
+Jeder Schritt ein Kraftakt, jeder Gang zur Tür eine Expedition.  
+Er verlässt das Haus kaum noch.
+
+Ich koche.  
+Ich fahre.  
+Ich kaufe ein.  
+Ich halte Hände.  
+Ich stütze – wortlos.
 
 Sie brauchen mich.  
 Und ich bin da.
 
-Ich bringe Einkäufe. Ich sortiere Medikamente. Ich halte Hände.  
-Ich bin der Sohn, der geblieben ist.  
-So, wie ich es bei meinem eigenen Sohn war.
+---
 
-Und in der anderen Welt lebt ** Elias**.  
-Nicht mehr bei uns – aber auch nicht wirklich fern.
+Und in der anderen Richtung?  
+Dort ist **Elias**.
+
+Mein Sohn.  
+Mein erstes Kind.  
+Mein leiser Begleiter,  
+der nie gesagt hat, wer er sein will –  
+aber mich gelehrt hat, ihn trotzdem zu sehen.
 
 Er lebt im Wohnheim.  
-Dort hat er ein Zimmer.  
-Ein geregeltes Umfeld.  
-Therapeutische Unterstützung.  
-Menschen, die seine Sprache kennen,  
-auch wenn sie nicht aus Worten besteht.
+In einem kleinen, klaren Zimmer.  
+Mit geregelten Abläufen, festen Bezugspersonen,  
+Therapien, Struktur, Ruhe.
 
-Ich besuche ihn regelmäßig.  
+Nicht weil wir ihn abgeschoben hätten.  
+Sondern weil wir ihn dort  
+**endlich beschützt wussten**.
+
+Und doch: Ich bin oft dort.  
 So oft ich kann.
 
-Manchmal sitze ich einfach nur neben ihm.  
-Und höre zu –  
-dem Klang der Stille zwischen uns.  
-Dem Summen, das er manchmal macht, wenn er sich wohlfühlt.  
-Dem Rhythmus seiner Welt,  
-der ganz anders ist als der Rest.
+---
 
-Ich sehe ihn an.  
-Er schaut nicht immer zurück.  
-Aber manchmal schon.
+Manchmal sitzen wir einfach nur nebeneinander.  
+Er spielt mit einer Flasche, einem Band, einem Lichtreflex an der Wand.  
+Und ich bin still.  
+Nicht aus Ratlosigkeit,  
+sondern aus Respekt vor seiner Welt,  
+in die ich nur am Rand treten darf.
 
-Und in diesen seltenen Momenten  
-weiß ich:  
-Er erkennt mich.  
-Er weiß, dass ich da bin.  
-Noch immer.
+Ich rede manchmal mit ihm,  
+obwohl ich weiß, dass er nicht antwortet.  
+Aber ich habe gelernt,  
+dass Antwort nicht immer Sprache braucht.
 
-Elias ist nicht geheilt.  
-Er wird nie „normal“ sein –  
-was auch immer das heißen soll.
+Sein Blick,  
+sein Schweigen,  
+sein ganz eigener Rhythmus –  
+sie sagen oft mehr,  
+als Worte je könnten.
 
-Aber er lebt.  
-Und manchmal lacht er.  
-Und manchmal spüre ich:  
-Er ist glücklich.  
-Trotz allem.
+---
 
-Ich lebe heute zwischen Pflicht und Erinnerung.  
-Zwischen Pflegeplan und Krankenhausakten.  
-Zwischen Gerichtsbriefen und Kinderfotos.
+Ich lebe zwischen diesen beiden Polen:  
+Vergessene Eltern,  
+ein wortloser Sohn.  
+Vergangenheit, die mich braucht,  
+und Zukunft, die ich nie kontrollieren konnte.
 
-Und doch – inmitten all dessen –  
-bin ich da.
+Ich trage Verantwortung.  
+Nicht aus Pflichtgefühl,  
+sondern aus Liebe –  
+der ruhigen, müden, tiefen Liebe,  
+die bleibt,  
+auch wenn der Applaus längst verklungen ist.
 
-Nicht mehr so wie früher.  
-Nicht mehr mit kindlichem Glauben,  
-dass alles gut wird, wenn man nur genug kämpft.
+---
 
-Aber mit der Reife eines Mannes,  
-der weiß, dass Liebe bleibt,  
-auch wenn das Leben es nicht leicht macht.
+Es gibt Tage,  
+da verliere ich das Maß.  
+Da weiß ich nicht, ob ich noch funktioniere  
+oder schon wieder zerfalle.  
+Aber ich mache weiter.
+
+Weil niemand sonst da ist.  
+Weil ich kann.  
+Und manchmal auch: weil ich muss.
+
+---
+
+Wenn ich abends zur Ruhe komme –  
+wenn es still wird –  
+denke ich an Elias.
+
+An das Baby mit dem offenen Herzen.  
+An das Kind mit den Krämpfen.  
+An den Jungen, der nie gesprochen hat,  
+aber mich dennoch gelehrt hat, was Nähe ist.
+
+Ich denke auch an meine Eltern.  
+Wie sie mich großzogen.  
+Wie ich ihnen jetzt langsam das zurückgebe,  
+was sie mir einst gaben –  
+Tag für Tag.  
+Ein Schritt. Ein Glas Wasser. Eine geduldige Berührung.
+
+---
 
 Was bleibt?
 
-** Elias.**  
-Meine Eltern.  
-Meine Geschichte.  
-Diese Worte.
+Nicht die Behördenschreiben.  
+Nicht die Gerichtsakten.  
+Nicht die Jahre voller Kämpfe.
 
-Und der stille Mut, sie endlich aufzuschreiben.
+Was bleibt, ist das, was niemand sieht:
+
+Die Berührung an der Schulter.  
+Der Blick von Elias, wenn ich komme.  
+Das Lächeln meiner Mutter, wenn ich ihren Namen flüstere.  
+Die Stimme meines Vaters,  
+leise, aber da:  
+> „Danke, dass du da bist.“
+
+---
+
+Ich bin kein Held.  
+Ich bin kein Opfer.  
+Ich bin Vater.  
+Ich bin Sohn.
+
+Ich lebe in zwei Richtungen.  
+Und vielleicht ist das nicht Schwäche –  
+sondern die tiefste Form von Liebe.
