@@ -6,7 +6,7 @@ und weil ich trotzdem geblieben bin.
 
 Mein Name ist Asterios. Ich bin Vater.  
 Mein erstgeborener Sohn **Elias Leon** kam mit einem offenen Herzen auf die Welt –  
-und mit einer Geschichte, die kein Arzt, keine Behörde, kein System verstehen wollte.
+mit einer Geschichte, die kein Arzt, keine Behörde, kein System verstehen wollte.
 
 **Frühkindlicher Autismus.  
 Typ-1-Diabetes.  
@@ -26,8 +26,10 @@ Ich habe ihn gehalten, wenn er nicht sagen konnte, wo es wehtat.
 Ich habe Formulare ausgefüllt, während mein Herz brannte.  
 Ich habe ihn geliebt – bedingungslos – während andere wegschauten.
 
-> Zur Wahrung der Privatsphäre wurden in diesem Buch alle Namen geändert.  
-> Die Erlebnisse aber sind echt – jedes Wort, jede Träne, jede Entscheidung.
+> Aus Rücksicht auf meine Familie habe ich die Namen meiner Kinder in diesem Buch geändert.  
+> Die Geschichte aber ist wahr.  
+> Jede Begegnung. Jeder Schmerz. Jede Entscheidung.  
+> Ich erzähle sie als Vater – und ich stehe mit meinem Namen dafür.
 
 Dieses Buch erzählt unsere Geschichte.  
 Nicht in medizinischer Sprache. Nicht in Zahlen und Paragraphen.  
@@ -56,5 +58,5 @@ Jetzt spreche ich.
 Nicht, um Mitleid zu wecken – sondern um zu zeigen:  
 **In den Geschichten, die wir nicht erzählen, lebt unsere wahre Stärke.**
 
-Ich erzähle sie jetzt –  
+Ich erzähle sie **jetzt** –  
 **mit den Augen eines Vaters.**

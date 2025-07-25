@@ -1,4 +1,4 @@
-# Kapitel 5: Der Bruch {#chapter-04}
+# Kapitel 5: Der Bruch {#chapter-05}
 
 Irgendwann war der Punkt erreicht,  
 an dem ich wusste: **Wenn ich bleibe, zerstöre ich alles.**
