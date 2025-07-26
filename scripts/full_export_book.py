@@ -3,6 +3,7 @@ import shutil
 import subprocess
 import argparse
 import yaml
+from pathlib import Path
 
 # Change the current working directory to the root directory of the project
 # (Assumes the script is located one level inside the project root)
@@ -14,7 +15,6 @@ BOOK_DIR = "./manuscript"                       # Location of markdown files org
 OUTPUT_DIR = "./output"                         # Output directory for compiled formats
 BACKUP_DIR = "./output_backup"                  # Backup location for previous output
 OUTPUT_FILE = "mit-den-augen-eines-vaters-ebook"# Base name for the output files
-METADATA_FILE = "config/metadata.yaml"          # YAML file for Pandoc metadata (title, author, etc.)
 LOG_FILE = "export.log"                         # Log file for script and Pandoc output/errors
 
 # Paths to supporting scripts
@@ -22,6 +22,9 @@ SCRIPT_DIR = "./scripts"
 ABSOLUTE_SCRIPT = os.path.join(SCRIPT_DIR, "convert_to_absolute.py")     # Script to convert relative links to absolute
 RELATIVE_SCRIPT = os.path.join(SCRIPT_DIR, "convert_to_relative.py")     # Script to revert absolute links back to relative
 IMG_SCRIPT = os.path.join(SCRIPT_DIR, "convert_img_tags.py")             # Script to modify image tag styles if needed
+
+CONFIG_DIR = "./config"
+METADATA_FILE =  Path(CONFIG_DIR) / "metadata.yaml"     # YAML file for Pandoc metadata (title, author, etc.)
 
 # Supported output formats and their corresponding Pandoc targets
 FORMATS = {
@@ -50,12 +53,14 @@ DEFAULT_SECTION_ORDER = [
 
 def get_metadata_language():
     """Read and return the 'lang' field from metadata.yaml if present, else return None"""
-    if not os.path.exists(METADATA_FILE):
+    if not METADATA_FILE.exists():
+        print(f"⚠️ Metadata file not found at: {METADATA_FILE}")
         return None
-    with open(METADATA_FILE, "r", encoding="utf-8") as f:
+    with METADATA_FILE.open("r", encoding="utf-8") as f:
         try:
+            print(f"⚠️ Metadata file found at: {METADATA_FILE}")
             metadata = yaml.safe_load(f)
-            return metadata.get("lang")
+            return metadata.get("language")
         except yaml.YAMLError as e:
             print(f"⚠️ Failed to parse {METADATA_FILE}: {e}")
             return None
@@ -206,6 +211,8 @@ def main():
         lang = metadata_lang
         print(f"🌐 Using language from metadata.yaml: '{lang}'")
     else:
+
+        print(f"cli_lang: '{cli_lang}'")
         lang = "en"
         print("⚠️ No language set in CLI or metadata.yaml. Defaulting to 'en'")
 
