@@ -4,11 +4,11 @@ _Eine wahre Geschichte über Liebe, Verlust und die Kraft, trotzdem dazubleiben.
 
 ## 📖 Über dieses Buch
 
-Dieses Projekt enthält den autobiografisch inspirierten Text **„Mit den Augen eines Vaters“** –  
-eine tief persönliche Erzählung eines Vaters, der seinen behinderten Sohn liebt, begleitet und verteidigt –  
+Dieses Projekt enthält den autobiografisch inspirierten Text **„Mit den Augen eines Vaters“** –
+eine tief persönliche Erzählung eines Vaters, der seinen behinderten Sohn liebt, begleitet und verteidigt –
 gegen Krankheit, gegen Vorurteile und gegen die stille Gewalt der Institutionen.
 
-> _„Ich bin geblieben – nicht weil es leicht war,  
+> _„Ich bin geblieben – nicht weil es leicht war,
 > sondern weil mein Sohn mich brauchte.“_
 
 Die Geschichte berührt Themen wie:
@@ -23,7 +23,7 @@ Die Geschichte berührt Themen wie:
 
 ## 📚 Projektstruktur
 
-Dieses Repository basiert auf dem [write-book-template](https://github.com/astrapi69/write-book-template)  
+Dieses Repository basiert auf dem [write-book-template](https://github.com/astrapi69/write-book-template)
 und nutzt automatisierte Tools zur Erstellung und Veröffentlichung von Büchern.
 
 📁 Wichtige Verzeichnisse:
@@ -49,7 +49,7 @@ Erzeuge z. B. eine PDF-Version des Buches:
 poetry run full-export --format pdf
 ```
 
-> Weitere Infos findest du im Template-Projekt:  
+> Weitere Infos findest du im Template-Projekt:
 > 👉 [write-book-template](https://github.com/astrapi69/write-book-template)
 
 * * *
@@ -57,11 +57,11 @@ poetry run full-export --format pdf
 ❤️ Warum dieses Buch?
 ---------------------
 
-Weil jede Geschichte zählt.  
-Weil echte Väter zu selten gehört werden.  
+Weil jede Geschichte zählt.
+Weil echte Väter zu selten gehört werden.
 Weil Menschen wie Nico uns lehren, was es heißt, **zu leben und nicht nur zu funktionieren.**
 
-Dieses Buch ist ein Versuch, sichtbar zu machen, was oft im Verborgenen leidet.  
+Dieses Buch ist ein Versuch, sichtbar zu machen, was oft im Verborgenen leidet.
 Es soll Mut machen, berühren und erinnern.
 
 * * *
@@ -69,8 +69,8 @@ Es soll Mut machen, berühren und erinnern.
 📣 Mitmachen & Feedback
 -----------------------
 
-Dieses Projekt ist öffentlich weil die Geschichte **gesehen werden soll**.  
-Konstruktives, respektvolles Feedback ist willkommen.  
+Dieses Projekt ist öffentlich weil die Geschichte **gesehen werden soll**.
+Konstruktives, respektvolles Feedback ist willkommen.
 Bitte keine technischen Pull Requests ohne Absprache.
 
 * * *
@@ -79,8 +79,8 @@ Bitte keine technischen Pull Requests ohne Absprache.
 ⚠️ Rechtliches
 --------------
 
-Die Geschichte basiert auf realen Erfahrungen.  
-Namen und Details wurden ggf. aus Gründen des Persönlichkeitsschutzes angepasst.  
+Die Geschichte basiert auf realen Erfahrungen.
+Namen und Details wurden ggf. aus Gründen des Persönlichkeitsschutzes angepasst.
 Keine kommerzielle Weiterverwendung ohne schriftliche Genehmigung des Autors.
 
 ## Lizenz
@@ -94,10 +94,10 @@ Der vollständige Lizenztext ist in der Datei [`LICENSE`](./LICENSE) enthalten.
 🧑‍💻 Autor
 -----------
 
-**Asterios Raptis**  
+**Asterios Raptis**
 GitHub: [@astrapi69](https://github.com/astrapi69) 
 
 * * *
 
-> _„Mit den Augen eines Vaters zu sehen, heißt:  
+> _„Mit den Augen eines Vaters zu sehen, heißt:
 > nicht nur durchzublicken sondern durchzuhalten.“_
