@@ -1,15 +1,18 @@
-Was bleibt, wenn das Leben anders verläuft, als man es sich je ausgemalt hat?
+## Was bleibt, wenn das Leben anders verläuft, als man es sich je ausgemalt hat?
 
-Als sein erstgeborener Sohn Elias mit einer Reihe schwerer Diagnosen zur Welt kommt – Autismus, Diabetes, epileptische
-Anfälle – beginnt für Asterios ein Leben im Ausnahmezustand: zwischen Liebe und Erschöpfung, zwischen Pflege und
-Behördenkampf, zwischen Krankenhausnächten und dem verzweifelten Versuch, seine Familie zusammenzuhalten.
+Als sein erstgeborener Sohn Elias mit mehreren schweren Diagnosen zur Welt kommt – **frühkindlicher Autismus**, **Typ-1-Diabetes**, **epileptische Anfälle** – gerät das Leben von Asterios Raptis aus den Fugen. Was folgt, ist ein Alltag im Ausnahmezustand: zwischen bedingungsloser Liebe und völliger Erschöpfung, zwischen Pflege, Krankenhausnächten und einem zermürbenden Kampf mit dem System.
 
-In berührender Offenheit erzählt der Autor von den stillen Heldentaten des Alltags, vom Auseinanderbrechen und Bleiben,
-von einem Vatersein, das niemand vorbereitet – aber das alles verändert.
+In **bewegender Klarheit und stiller Stärke** erzählt der Autor von Momenten, die keiner sieht – und die doch alles bedeuten:  
+Von einem Vatersein ohne Anleitung.  
+Vom Auseinanderbrechen – und vom Bleiben.  
+Von kleinen Siegen, die größer sind als jedes Urteil.
 
-Mit den Augen eines Vaters ist kein Ratgeber. Es ist ein Zeugnis.
+**„Mit den Augen eines Vaters“** ist kein Ratgeber.  
+Es ist ein Zeugnis.  
 
-Eine wahre Geschichte über das, was uns trägt, wenn alles andere fällt:
-Liebe.
-Würde.
-Und die stille Kraft, nicht aufzugeben.
+Eine wahre Geschichte darüber,  
+was uns hält, wenn alles andere fällt:
+
+**Liebe.**  
+**Würde.**  
+**Und die leise Kraft, nicht aufzugeben.**
