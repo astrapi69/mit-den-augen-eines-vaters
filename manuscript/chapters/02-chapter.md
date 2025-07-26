@@ -1,4 +1,4 @@
-# Kapitel 2: Das Verhalten, das niemand verstand {#chapter-02}
+# Kapitel 2: Als Verhalten zum Problem wurde {#chapter-02}
 
 Am Anfang war es nur ein Gefühl.
 Ein leiser Zweifel, der sich wie ein Schatten in mein Bewusstsein schlich.

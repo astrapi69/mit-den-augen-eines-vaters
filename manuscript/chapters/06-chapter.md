@@ -1,4 +1,4 @@
-# Kapitel 6: Vor Gericht – Wenn Worte gegen dich stehen {#chapter-06}
+# Kapitel 6: Vor Gericht – Wenn Worte nicht reichen {#chapter-06}
 
 Ich dachte, ich hätte das Schlimmste hinter mir.
 Die Nächte am Bett meines Sohnes,

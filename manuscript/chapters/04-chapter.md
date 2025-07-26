@@ -1,4 +1,4 @@
-# Kapitel 4: Ein neues Leben in Ludwigsburg {#chapter-04}
+# Kapitel 4: Ein neues Leben beginnt {#chapter-04}
 
 Ludwigsburg war kein Sehnsuchtsort.
 Es war ein Fluchtpunkt.
