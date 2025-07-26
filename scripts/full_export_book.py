@@ -113,7 +113,7 @@ def ensure_metadata_file():
             f.write("title: 'Mit den Augen eines Vaters'\nauthor: 'Asterios Raptis'\ndate: '2025'\nlang: 'en'\n")
 
 
-def compile_book(format, section_order, cover_path=None, force_epub2=False, lang="en"):
+def compile_book(format, section_order, cover_path=None, force_epub2=False, lang="en", custom_ext=None):
     """
     Compiles the book into a specific format using Pandoc.
 
@@ -121,7 +121,12 @@ def compile_book(format, section_order, cover_path=None, force_epub2=False, lang
     - format: Format to compile (e.g. pdf, docx)
     - section_order: Ordered list of sections to include
     """
-    output_path = os.path.join(OUTPUT_DIR, f"{OUTPUT_FILE}.{FORMATS[format]}")
+    if format == "markdown":
+        ext = custom_ext if custom_ext else "md"
+    else:
+        ext = FORMATS[format]
+    output_path = os.path.join(OUTPUT_DIR, f"{OUTPUT_FILE}.{ext}")
+
     md_files = []
 
     # Gather markdown files from the specified order
@@ -193,6 +198,7 @@ def main():
     parser.add_argument("--cover", type=str, help="Optional path to cover image (for EPUB export).")
     parser.add_argument("--epub2", action="store_true", help="Force EPUB 2 export (for epubli compatibility).")
     parser.add_argument("--lang", type=str, help="Language code for metadata (e.g. en, de, fr)")
+    parser.add_argument("--extension", type=str, help="Custom file extension for markdown export (default: md)")
 
     args = parser.parse_args()
     section_order = args.order.split(",")
@@ -233,7 +239,7 @@ def main():
     # Compile the book for each format
     for fmt in selected_formats:
         if fmt in FORMATS:
-            compile_book(fmt, section_order, args.cover, args.epub2, lang)
+            compile_book(fmt, section_order, args.cover, args.epub2, lang, args.extension)
         else:
             print(f"⚠️ Skipping unknown format: {fmt}")
 
