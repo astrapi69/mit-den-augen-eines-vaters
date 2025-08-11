@@ -1,7 +1,3 @@
-[build-system]
-requires = [ "poetry-core>=2.0.0,<3.0.0",]
-build-backend = "poetry.core.masonry.api"
-
 [tool.poetry]
 name = "mit-den-augen-eines-vaters"
 version = "0.1.0"
@@ -20,12 +16,16 @@ requests = "^2.31.0"
 pillow = "^11.2.1"
 pyyaml = "^6.0.2"
 toml = "^0.10.2"
+ftfy = "^6.3.1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.0"
 pytest-mock = "^3.10.0"
 
 [tool.poetry.scripts]
+sanitize = "scripts.sanitize:main"
+pandoc-batch = "scripts.pandoc_batch:main"
+clean-git-cache = "scripts.clean_git_cache:main"
 init-book-project = "scripts.init_book_project:main"
 print-version-build = "scripts.print_version_build:main"
 update-metadata-values = "scripts.update_metadata_values:main"
@@ -36,7 +36,9 @@ translate-book-lmstudio = "scripts.translate_book_lmstudio:main"
 create-chapters = "scripts.create_chapters:main"
 generate-images = "scripts.generate_images:main"
 inject-images = "scripts.inject_images:main"
-shortcuts = "scripts.shortcuts:main"
+shortcuts-export = "scripts.shortcuts_export:main"
+shortcuts-init = "scripts.shortcuts_init:main"
+shortcuts-translate = "scripts.shortcuts_translate:main"
 
 # 🏁 Export Shortcuts
 export-epub = "scripts.shortcuts_export:export_epub"
@@ -55,6 +57,10 @@ export-docx = "scripts.shortcuts_export:export_docx"
 export-d = "scripts.shortcuts_export:export_docx"
 export-print-version-epub = "scripts.shortcuts_export:export_print_version_epub"
 export-pve = "scripts.shortcuts_export:export_print_version_epub"
+export-print-version-paperback = "scripts.shortcuts_export:export_print_version_paperback"
+export-pvp = "scripts.shortcuts_export:export_print_version_paperback"
+export-print-version-hardcover = "scripts.shortcuts_export:export_print_version_hardcover"
+export-pvh = "scripts.shortcuts_export:export_print_version_hardcover"
 export-all-with-cover = "scripts.shortcuts_export:all_formats_with_cover"
 
 # Init Shortcuts
@@ -76,5 +82,22 @@ translate-en-de = "scripts.shortcuts_translate:translate_manuscript_to_german"
 translate-de-en = "scripts.shortcuts_translate:translate_manuscript_from_german_to_english"
 
 [tool.pytest.ini_options]
-testpaths = [ "tests",]
+testpaths = ["tests"]
 
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pandoc_batch]
+root = "manuscript"
+outdir = "output"
+to = "epub"
+metadata_file = "config/metadata.yaml"
+resource_path = ["assets"]
+lang = "en"
+jobs = 4
+verbose = true
+standalone = true
+test_only = false
+patch_md = true
+fix_inplace = false

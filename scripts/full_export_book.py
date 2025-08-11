@@ -3,7 +3,9 @@ import shutil
 import subprocess
 import argparse
 import yaml
+import toml
 from pathlib import Path
+from scripts.enums.book_type import BookType
 
 # Change the current working directory to the root directory of the project
 # (Assumes the script is located one level inside the project root)
@@ -14,10 +16,12 @@ os.chdir("..")
 BOOK_DIR = "./manuscript"                       # Location of markdown files organized by sections
 OUTPUT_DIR = "./output"                         # Output directory for compiled formats
 BACKUP_DIR = "./output_backup"                  # Backup location for previous output
-OUTPUT_FILE = "mit-den-augen-eines-vaters-ebook"# Base name for the output files
+# Set to None to derive from pyproject.toml automatically.
+# Set a string to override the output file base name manually.
+OUTPUT_FILE = "mit-den-augen-eines-vaters"
 LOG_FILE = "export.log"                         # Log file for script and Pandoc output/errors
 
-# Paths to supporting scripts
+# Supporting script paths
 SCRIPT_DIR = "./scripts"
 ABSOLUTE_SCRIPT = os.path.join(SCRIPT_DIR, "convert_to_absolute.py")     # Script to convert relative links to absolute
 RELATIVE_SCRIPT = os.path.join(SCRIPT_DIR, "convert_to_relative.py")     # Script to revert absolute links back to relative
@@ -51,6 +55,28 @@ DEFAULT_SECTION_ORDER = [
     "back-matter/index.md",
 ]
 
+
+def get_project_name_from_pyproject(pyproject_path="pyproject.toml"):
+    """
+    Extract the project name from the pyproject.toml file.
+
+    This function reads the `[tool.poetry.name]` field from a pyproject.toml file
+    and returns it as a string. This value is used as the base prefix for output filenames.
+
+    Parameters:
+    - pyproject_path (str): Path to the pyproject.toml file (default: "pyproject.toml")
+
+    Returns:
+    - str: The project name if found, otherwise a fallback value ("book")
+    """
+    try:
+        data = toml.load(pyproject_path)
+        return data["tool"]["poetry"]["name"]
+    except Exception as e:
+        print(f"⚠️ Could not read project name from pyproject.toml: {e}")
+        return "book"
+
+
 def get_metadata_language():
     """Read and return the 'lang' field from metadata.yaml if present, else return None"""
     if not METADATA_FILE.exists():
@@ -58,7 +84,6 @@ def get_metadata_language():
         return None
     with METADATA_FILE.open("r", encoding="utf-8") as f:
         try:
-            print(f"⚠️ Metadata file found at: {METADATA_FILE}")
             metadata = yaml.safe_load(f)
             return metadata.get("language")
         except yaml.YAMLError as e:
@@ -110,7 +135,7 @@ def ensure_metadata_file():
         print(f"⚠️ Metadata file missing! Creating default {METADATA_FILE}.")
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
-            f.write("title: 'Mit den Augen eines Vaters'\nauthor: 'Asterios Raptis'\ndate: '2025'\nlang: 'en'\n")
+            f.write("title: 'Mit den Augen eines Vaters'\nauthor: 'Asterios Raptis'\ndate: '2025'\nlang: 'de'\n")
 
 
 def compile_book(format, section_order, cover_path=None, force_epub2=False, lang="en", custom_ext=None):
@@ -199,9 +224,33 @@ def main():
     parser.add_argument("--epub2", action="store_true", help="Force EPUB 2 export (for epubli compatibility).")
     parser.add_argument("--lang", type=str, help="Language code for metadata (e.g. en, de, fr)")
     parser.add_argument("--extension", type=str, help="Custom file extension for markdown export (default: md)")
+    parser.add_argument(
+        "--book-type",
+        type=str,
+        choices=[bt.value for bt in BookType],
+        default=BookType.EBOOK.value,
+        help="Specify the book type (ebook, paperback, etc.). Affects output file naming."
+    )
+    parser.add_argument("--output-file", type=str, help="Custom output file base name (overrides project name)")
 
     args = parser.parse_args()
     section_order = args.order.split(",")
+
+    # Book type handling
+    book_type = BookType(args.book_type)
+
+    # Set global output filename
+    global OUTPUT_FILE
+    if args.output_file:
+        OUTPUT_FILE = f"{args.output_file}-{book_type.value}"
+    elif not OUTPUT_FILE:
+        project_name = get_project_name_from_pyproject()
+        OUTPUT_FILE = f"{project_name}-{book_type.value}"
+    else:
+        OUTPUT_FILE = f"{OUTPUT_FILE}-{book_type.value}"
+
+    print(f"📘 Output file base name set to: {OUTPUT_FILE}")
+
 
     # Determine language: CLI > metadata.yaml > fallback
     metadata_lang = get_metadata_language()

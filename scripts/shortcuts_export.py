@@ -14,10 +14,14 @@ Shortcut utility for common book export operations.
 🎯 Available shortcuts:
     - export_epub()
     - export_epub_with_cover()
+    - export_epub2()
+    - export_epub2_with_cover()
     - export_pdf()
     - export_docx()
     - export_markdown()
     - export_print_version_epub()
+    - export_print_version_paperback(),
+    - export_print_version_hardcover(),
     - all_formats_with_cover()
 """
 
@@ -66,12 +70,6 @@ def export_epub_with_cover():
     export("epub", "./assets/covers/cover.jpg")
 
 
-def export_print_version_epub():
-    """Export the print-optimized EPUB version via print_version_build"""
-    sys.argv = ["print-version-build", "--format=epub"]
-    export_print_version_main()
-
-
 def all_formats_with_cover():
     """Export all formats (PDF, EPUB, DOCX) with EPUB cover"""
     sys.argv = [
@@ -81,16 +79,48 @@ def all_formats_with_cover():
     ]
     export_main()
 
+def export_epub2():
+    """Export EPUB in EPUB 2 format"""
+    sys.argv = ["full-export", "--format=epub", "--epub2"]
+    export_main()
+
+def export_epub2_with_cover():
+    """Export EPUB 2 with cover image"""
+    sys.argv = ["full-export", "--format=epub", "--epub2", "--cover=./assets/covers/cover.jpg"]
+    export_main()
+
+
+def export_print_version_epub():
+    """Export the print-optimized EPUB version via print_version_build"""
+    sys.argv = ["print-version-build",]
+    export_print_version_main()
+
+
+def export_print_version_paperback():
+    """Export the print-optimized EPUB version for paperback"""
+    sys.argv = ["print-version-build", "--book-type=paperback"]
+    export_print_version_main()
+
+
+def export_print_version_hardcover():
+    """Export the print-optimized EPUB version for hardcover"""
+    sys.argv = ["print-version-build", "--book-type=hardcover"]
+    export_print_version_main()
+
 
 # --- CLI Dispatcher ---
 
 available_shortcuts = {
     "export_epub": export_epub,
     "export_epub_with_cover": export_epub_with_cover,
+    "export_epub2": export_epub2,
+    "export_epub2_with_cover": export_epub2_with_cover,
     "export_pdf": export_pdf,
     "export_docx": export_docx,
     "export_markdown": export_markdown,
     "export_print_version_epub": export_print_version_epub,
+    "export_print_version_paperback": export_print_version_paperback,
+    "export_print_version_hardcover": export_print_version_hardcover,
     "all_formats_with_cover": all_formats_with_cover,
 }
 
