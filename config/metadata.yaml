@@ -1,7 +1,9 @@
 title: "Mit den Augen eines Vaters"
 subtitle: "Ein Vater. Ein Sohn. Und die Liebe, die bleibt."
 author: "Asterios Raptis"
-isbn: "9798294279868"
+isbn:
+  paperback: "9798294279868"
+  hardcover: "9798297485716"
 edition: "1. Auflage"
 publisher: "Consciousness Publishing"
 date: "2025"
