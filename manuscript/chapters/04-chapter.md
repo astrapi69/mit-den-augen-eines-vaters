@@ -558,12 +558,6 @@ Nicht mehr der Vater ihrer Kinder.
 Nicht mehr der Mann, den sie einmal geliebt hatte –
 falls sie mich jemals wirklich geliebt hatte.
 
-Und ich?
-Ich war nicht mehr ihr Partner.
-Nicht mehr der Vater ihrer Kinder.
-Nicht mehr der Mann, den sie einmal geliebt hatte –
-falls sie mich jemals wirklich geliebt hatte.
-
 Ich war Störfaktor.
 Ich war Hindernis auf dem Weg zu ihrem neuen Glück.
 Ich war die Erinnerung an ein Leben,
