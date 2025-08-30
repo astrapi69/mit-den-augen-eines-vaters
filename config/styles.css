@@ -1,0 +1,236 @@
+/* ========================================
+   STYLESHEET FOR PANDOC-GENERATED EPUB
+   ✅ Valid with epubcheck
+   ✅ Images centered
+   ✅ Captions styled & readable
+   ✅ Responsive & cross-reader compatible
+   ======================================== */
+
+/* === IMAGE & FIGURE ALIGNMENT === */
+/* Ensure images are centered and not right-aligned */
+figure img,
+p img,
+img[alt] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+    float: none !important;
+    clear: both;
+}
+
+/* Make figure block-level and centered */
+figure {
+    display: block;
+    text-align: center;
+    margin: 1.2em 0 !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+/* === FIGURE CAPTIONS === */
+figcaption {
+    color: #333333 !important;        /* Strong, readable dark gray */
+    font-size: 0.9em !important;
+    line-height: 1.4em !important;
+    font-weight: 500 !important;     /* Medium weight */
+    font-style: italic;              /* Subtle emphasis */
+    text-align: center !important;
+    margin-top: 0.5em !important;
+    margin-bottom: 0.7em !important;
+    padding: 0 !important;
+    background: transparent !important;
+    border: none !important;
+    text-shadow: none !important;
+}
+
+/* Prevent page break between image and caption */
+figcaption {
+    page-break-before: avoid;
+    break-before: avoid;
+}
+
+/* === TYPOGRAPHY === */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1em;
+    line-height: 1.6;
+    color: #000000;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+p {
+    margin: 0 0 1em 0 !important;
+    line-height: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1.5em 0 0.8em 0 !important;
+    line-height: 1.3;
+    font-weight: 600;
+    color: #000000;
+    page-break-after: avoid;
+    break-after: avoid;
+    page-break-inside: avoid;
+}
+
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.1em; }
+
+/* Prevent headings from being orphaned */
+p + h2,
+p + h3,
+p + h4 {
+    page-break-before: avoid;
+    break-before: avoid;
+}
+
+/* === CODE & MONOSPACE === */
+code, pre, tt {
+    font-family: "Courier New", monospace;
+    font-size: 0.9em;
+    background-color: #f4f4f4;
+    color: #111111;
+    border-radius: 3px;
+}
+
+pre {
+    padding: 0.8em;
+    margin: 1em 0 !important;
+    overflow-x: auto;
+    background-color: #f0f0f0;
+}
+
+code {
+    padding: 0.1em 0.3em;
+    background-color: #f0f0f0;
+}
+
+/* === BLOCKQUOTES === */
+blockquote {
+    margin: 1em 1.5em !important;
+    padding: 0.5em 1em;
+    background-color: #f9f9f9;
+    border-left: 4px solid #ccc;
+    font-style: italic;
+    color: #555555;
+}
+
+/* === LISTS === */
+ul, ol {
+    margin: 0.8em 0;
+    padding-left: 2em;
+}
+
+li > p {
+    margin-bottom: 0.6em !important;
+}
+
+/* Avoid breaks inside list items */
+li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+/* === TABLES === */
+table {
+    margin: 1em auto;
+    width: 100%;
+    border-collapse: collapse;
+    page-break-inside: avoid;
+}
+
+th, td {
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+    font-weight: 600;
+}
+
+/* === HYPERLINKS === */
+a {
+    color: #1f3c88;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #663399;
+}
+
+/* === DARK MODE SUPPORT (Apple Books, Thorium) === */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #e0e0e0;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        color: #ffffff;
+    }
+
+    p, li, td, th {
+        color: #e0e0e0;
+    }
+
+    code, pre {
+        background-color: #2d2d2d;
+        color: #f8f8f8;
+    }
+
+    blockquote {
+        background-color: #2a2a2a;
+        border-left-color: #888;
+        color: #cccccc;
+    }
+
+    table {
+        border-color: #555;
+    }
+
+    th {
+        background-color: #333;
+    }
+
+    a {
+        color: #6eceda;
+    }
+
+    a:visited {
+        color: #c792ea;
+    }
+
+    /* Softer but readable caption in dark mode */
+    figcaption {
+        color: #bbbbbb !important;
+        font-weight: 400 !important;
+    }
+}
+
+/* === PRINT / PAGE BREAKS (for HTML → PDF) === */
+@media print {
+    figure, img, figure img, figcaption {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+
+    h2, h3 {
+        page-break-after: avoid;
+    }
+
+    figure {
+        page-break-before: auto;
+    }
+}
