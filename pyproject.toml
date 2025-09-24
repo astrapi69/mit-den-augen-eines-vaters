@@ -33,6 +33,7 @@ pytest-mock = "^3.10.0"
 pytest-cov = "^5.0.0"
 
 [tool.poetry.scripts]
+remove-separator-line = "scripts.remove_separator_line:main"
 md2figure = "scripts.transform_md_images_to_figure:main"
 generate-audiobook = "scripts.generate_audiobook:main"
 reorder-chapters = "scripts.reorder_and_rename_chapters:main"

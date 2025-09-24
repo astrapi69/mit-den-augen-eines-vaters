@@ -11,4 +11,5 @@
 * [Kapitel 8: Ich sehe dich, Elias](#chapter-08)
 * [Epilog: Und ich bleibe](#epilogue)
 * [Glossar](#glossar)
+- [Danksagung](#acknowledgments)
 * [Über den Autor](#about-the-author)
