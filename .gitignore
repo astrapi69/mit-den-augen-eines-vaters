@@ -36,3 +36,13 @@ output_backup
 *.log
 .skiplist
 logs/
+
+###############################
+# Ignore Hypothesis test data #
+###############################
+.hypothesis
+
+###############################
+# Ignore coverage test output #
+###############################
+/.coverage
