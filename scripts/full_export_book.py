@@ -21,7 +21,7 @@ OUTPUT_DIR = "./output"                         # Output directory for compiled 
 BACKUP_DIR = "./output_backup"                  # Backup location for previous output
 # Set to None to derive from pyproject.toml automatically.
 # Set a string to override the output file base name manually.
-OUTPUT_FILE = ""
+OUTPUT_FILE = "mit-den-augen-eines-vaters"
 LOG_FILE = "export.log"                         # Log file for script and Pandoc output/errors
 
 # Supporting script paths
@@ -47,15 +47,12 @@ FORMATS = {
 DEFAULT_SECTION_ORDER = [
     "front-matter/imprint.md",
     "front-matter/toc.md",
-    "front-matter/preface.md",
     "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
     "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
-    "back-matter/bibliography.md",
 ]
 
 # New: explicit orders per product
@@ -65,15 +62,12 @@ EBOOK_SECTION_ORDER = DEFAULT_SECTION_ORDER
 PAPERBACK_SECTION_ORDER = [
     "front-matter/imprint.md",
     "front-matter/toc_print_edition.md", # <-- print ToC with page numbers
-    "front-matter/preface.md",
     "front-matter/foreword.md",
     "chapters",  # Entire chapters folder
     "back-matter/epilogue.md",
     "back-matter/glossary.md",
-    "back-matter/appendix.md",
     "back-matter/acknowledgments.md",
     "back-matter/about-the-author.md",
-    "back-matter/bibliography.md",
 ]
 
 # Hardcover section order (customizable)
@@ -177,11 +171,11 @@ def prepare_output_folder(verbose=False):
         print("📂 Created clean output directory.")
 
 import tempfile
-#TODO replace with your data
-DEFAULT_METADATA = """title: 'Change to Your Title' 
-author: 'Change to real Author Name'
+
+DEFAULT_METADATA = """title: 'KI für Einsteiger: Prompts gestalten ohne Programmierkenntnisse'
+author: 'Asterios Raptis'
 date: '2025'
-lang: 'en'
+lang: 'de'
 """
 
 def get_or_create_metadata_file(preferred_path: Path | str | None = None):
@@ -212,8 +206,7 @@ def ensure_metadata_file():
         print(f"⚠️ Metadata file missing! Creating default {METADATA_FILE}.")
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
-            # TODO replace with your data
-            f.write("title: 'Change to Your Title'\nauthor: 'Change to real Author Name'\ndate: '2025'\nlang: 'en'\n")
+            f.write("title: 'KI für Einsteiger: Prompts gestalten ohne Programmierkenntnisse'\nauthor: 'Asterios Raptis'\ndate: '2025'\nlang: 'de'\n")
 
 
 def compile_book(format, section_order, cover_path=None, force_epub2=False, lang="en", custom_ext=None):
