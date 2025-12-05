@@ -17,6 +17,12 @@ from scripts.validate_format import (
     validate_html,
 )
 
+DEFAULT_METADATA = """title: 'KI für Einsteiger: Prompts gestalten ohne Programmierkenntnisse'
+author: 'Asterios Raptis'
+date: '2025'
+lang: 'de'
+"""
+
 # Change the current working directory to the root directory of the project
 # (Assumes the script is located one level inside the project root)
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -191,13 +197,6 @@ def prepare_output_folder(verbose=False):
     if verbose:
         print("📂 Created clean output directory.")
 
-import tempfile
-
-DEFAULT_METADATA = """title: 'KI für Einsteiger: Prompts gestalten ohne Programmierkenntnisse'
-author: 'Asterios Raptis'
-date: '2025'
-lang: 'de'
-"""
 
 def get_or_create_metadata_file(preferred_path: Path | str | None = None):
     """
