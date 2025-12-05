@@ -7,7 +7,7 @@ import logging
 import os
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Dict, Iterable, Optional, Union
+from typing import Any, Dict, Iterable, Optional, Union, Sequence
 
 import requests
 from dotenv import load_dotenv
@@ -43,7 +43,9 @@ def load_json(path: Path) -> Dict[str, Any]:
         return {}
 
 
-def load_character_profiles(path: Union[str, Path] = "scripts/data/character_profiles.json") -> Dict[str, str]:
+def load_character_profiles(
+    path: Union[str, Path] = "scripts/data/character_profiles.json",
+) -> Dict[str, str]:
     """Load character profiles; return {} on failure (backward-compatible)."""
     path = Path(path)
     data = load_json(path)
@@ -112,13 +114,17 @@ def generate_image(
         return False
 
     if resp.status_code != 200:
-        logger.error("DeepAI error %s for %s: %s", resp.status_code, filename, resp.text)
+        logger.error(
+            "DeepAI error %s for %s: %s", resp.status_code, filename, resp.text
+        )
         return False
 
     try:
         image_url = resp.json().get("output_url")
         if not image_url:
-            logger.error("DeepAI response missing output_url for %s: %s", filename, resp.text)
+            logger.error(
+                "DeepAI response missing output_url for %s: %s", filename, resp.text
+            )
             return False
 
         img = session.get(image_url, timeout=timeout)
@@ -133,8 +139,10 @@ def generate_image(
         return False
 
 
-def parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Generate images from prompts using DeepAI text2img")
+def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Generate images from prompts using DeepAI text2img"
+    )
     parser.add_argument(
         "--prompt-file",
         default="scripts/data/image_prompts.json",
@@ -170,7 +178,9 @@ def make_config(args: argparse.Namespace) -> Optional[Config]:
 
     api_key = args.api_key or os.getenv("DEEPAI_API_KEY")
     if not api_key:
-        logger.error("No API key provided. Set --api-key or define DEEPAI_API_KEY in .env")
+        logger.error(
+            "No API key provided. Set --api-key or define DEEPAI_API_KEY in .env"
+        )
         return None
 
     prompt_file = Path(args.prompt_file)
@@ -187,8 +197,8 @@ def make_config(args: argparse.Namespace) -> Optional[Config]:
     )
 
 
-def main(argv: Optional[Iterable[str]] = None) -> int:
-    args = parse_args(argv)
+def main(argv: Optional[Sequence[str]] = None) -> int:
+    args = parse_args(list(argv) if argv is not None else None)
     cfg = make_config(args)
     if not cfg:
         return 2  # configuration issue
@@ -205,7 +215,9 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
         for item in chapter.get("prompts", []):
             base_prompt = item.get("prompt", "") or ""
             character_key = item.get("character")
-            final_prompt = build_prompt(base_prompt, character_key, character_profiles, global_style)
+            final_prompt = build_prompt(
+                base_prompt, character_key, character_profiles, global_style
+            )
             filename = item.get("filename", "output.png")
             ok = generate_image(
                 session=session,

@@ -1,8 +1,9 @@
-# main.py
+# transform_md_images_to_figure.py
 import re
 import sys
 import argparse
 from pathlib import Path
+
 
 def transform_md_images_to_figure(md_text):
     """Wandelt Markdown-Bilder mit optionalen Attributen und Caption-Zeile in <figure> um."""
@@ -64,15 +65,27 @@ def transform_md_images_to_figure(md_text):
 
 
 def process_file(input_path: Path, output_path: Path = None):
-    """Verarbeitet eine einzelne Datei."""
+    """Verarbeitet eine einzelne Datei — schreibt nur, wenn nötig."""
     with open(input_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+        original_content = f.read()
 
-    converted = transform_md_images_to_figure(content)
+    # Transformieren
+    converted_content = transform_md_images_to_figure(original_content)
+
+    # Sicherstellen: Beide enden mit \n (Standardkonvention)
+    if not original_content.endswith('\n'):
+        original_content += '\n'
+    if not converted_content.endswith('\n'):
+        converted_content += '\n'
+
+    # Nur schreiben, wenn sich etwas geändert hat
+    if original_content == converted_content:
+        print(f"ℹ️  {input_path} → keine Änderungen nötig")
+        return
 
     out_path = output_path or input_path.with_name(input_path.stem + "_converted" + input_path.suffix)
     with open(out_path, 'w', encoding='utf-8') as f:
-        f.write(converted)
+        f.write(converted_content)
 
     print(f"✅ {input_path} → {out_path}")
 

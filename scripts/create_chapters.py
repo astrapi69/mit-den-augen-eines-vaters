@@ -5,7 +5,7 @@ import argparse
 import logging
 import re
 from pathlib import Path
-from typing import Iterable, List, Optional
+from typing import List, Optional, Sequence
 
 LOG = logging.getLogger("create_chapters")
 logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -18,7 +18,9 @@ def _ensure_valid_pattern(pattern: str) -> None:
     Validate that the pattern contains a '{num' placeholder.
     """
     if "{num" not in pattern:
-        raise ValueError("`--name-pattern` must include a '{num}' placeholder (e.g. '{num:02d}-chapter.md').")
+        raise ValueError(
+            "`--name-pattern` must include a '{num}' placeholder (e.g. '{num:02d}-chapter.md')."
+        )
 
 
 def _pattern_to_regex(pattern: str) -> re.Pattern[str]:
@@ -40,7 +42,7 @@ def _pattern_to_regex(pattern: str) -> re.Pattern[str]:
     for m in token_re.finditer(pattern):
         # Escape text before token
         if m.start() > last:
-            parts.append(re.escape(pattern[last:m.start()]))
+            parts.append(re.escape(pattern[last : m.start()]))
         # Insert capture group
         parts.append(r"(?P<num>\d+)")
         last = m.end()
@@ -109,7 +111,9 @@ def create_chapter_files(
     if not dry_run:
         chapter_dir.mkdir(parents=True, exist_ok=True)
 
-    start_num = start if start is not None else _detect_next_start(chapter_dir, name_pattern)
+    start_num = (
+        start if start is not None else _detect_next_start(chapter_dir, name_pattern)
+    )
     end_num = start_num + total - 1
 
     planned: List[Path] = []
@@ -132,8 +136,10 @@ def create_chapter_files(
     return created
 
 
-def _parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Generate Markdown files (chapters/scenes/parts) with a flexible name pattern.")
+def _parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Generate Markdown files (chapters/scenes/parts) with a flexible name pattern."
+    )
     parser.add_argument(
         "--project-dir",
         type=str,
@@ -157,7 +163,7 @@ def _parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
         type=str,
         default=DEFAULT_PATTERN,
         help=f"Filename pattern with '{{num}}' placeholder (default: '{DEFAULT_PATTERN}'). "
-             "Examples: '{num:02d}-chapter.md', '{num:03d}_scene.md', '{num}-part.md'",
+        "Examples: '{num:02d}-chapter.md', '{num:03d}_scene.md', '{num}-part.md'",
     )
     parser.add_argument(
         "--dry-run",
@@ -167,8 +173,8 @@ def _parse_args(argv: Optional[Iterable[str]] = None) -> argparse.Namespace:
     return parser.parse_args(argv)
 
 
-def main(argv: Optional[Iterable[str]] = None) -> int:
-    args = _parse_args(argv)
+def main(argv: Optional[Sequence[str]] = None) -> int:
+    args = _parse_args(list(argv) if argv is not None else None)
     try:
         create_chapter_files(
             project_dir=args.project_dir,
