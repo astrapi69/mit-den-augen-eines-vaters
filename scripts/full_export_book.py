@@ -17,7 +17,7 @@ from scripts.validate_format import (
     validate_html,
 )
 
-DEFAULT_METADATA = """title: 'KI für Einsteiger: Prompts gestalten ohne Programmierkenntnisse'
+DEFAULT_METADATA = """title: 'Mit den Augen eines Vaters'
 author: 'Asterios Raptis'
 date: '2025'
 lang: 'de'
@@ -226,7 +226,12 @@ def ensure_metadata_file():
         print(f"⚠️ Metadata file missing! Creating default {METADATA_FILE}.")
         os.makedirs(os.path.dirname(METADATA_FILE), exist_ok=True)
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
-            f.write("title: 'KI für Einsteiger: Prompts gestalten ohne Programmierkenntnisse'\nauthor: 'Asterios Raptis'\ndate: '2025'\nlang: 'de'\n")
+            f.write(
+                'title: "Mit den Augen eines Vaters"\n'
+                'author: "Asterios Raptis"\n'
+                'date: "2025"\n'
+                'lang: "de"\n'
+            )
 
 
 def compile_book(
