@@ -1,17 +1,31 @@
 title: "Mit den Augen eines Vaters"
 subtitle: "Ein Vater. Ein Sohn. Und die Liebe, die bleibt."
 author: "Asterios Raptis"
+
 isbn:
   paperback: "9798294279868"
   hardcover: "9798297485716"
+
 edition: "1. Auflage"
 publisher: "Conscious Path Publishing"
 date: "2025"
 language: "de"
-description: "Persönliche Erzählung eines Vaters über das Leben mit seinem behinderten Sohn. Eine wahre Geschichte über Liebe, Schmerz, Hoffnung und Würde – erzählt aus der Sicht eines Mannes, der geblieben ist, als alles zerbrach."
-keywords: [ ]
+
+description: >
+  Persönliche Erzählung eines Vaters über das Leben mit seinem behinderten Sohn.
+  Eine wahre Geschichte über Liebe, Schmerz, Hoffnung und Würde – erzählt aus
+  der Sicht eines Mannes, der geblieben ist, als alles zerbrach.
+
+keywords: []
+
 cover_image: "assets/covers/cover.png"
-output_formats: [ "pdf", "epub", "docx" ]
+
+output_formats:
+  - "pdf"
+  - "epub"
+  - "docx"
+
 kdp_enabled: false
+
 css:
-  - config/styles.css
+  - "config/styles.css"
