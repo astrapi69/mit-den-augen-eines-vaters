@@ -8,13 +8,13 @@ Ein Vater. Ein Sohn. Und die Liebe, die bleibt. Asterios Raptis erzählt von Eli
 Bullet-Points:
 
 Drei Diagnosen, ein Leben
-Mit anderthalb Jahren Typ-1-Diabetes. Mit vier Jahren wird erkennbar, dass Elias anders ist. Später kommen epileptische Anfälle. Dieses Buch erzählt, wie aus einem gesunden Kind ein Patient wird und wie das Krankenhaus zum zweiten Zuhause einer Familie wird.
+Mit anderthalb Jahren Typ-1-Diabetes. Mit vier Jahren wird erkennbar, dass Elias anders ist. Später kommen epileptische Anfälle. Dieses Buch erzählt, wie drei Diagnosen den Alltag einer Familie neu ordnen und wie das Krankenhaus zu ihrem zweiten Zuhause wird.
 
 Der Kampf, den niemand sieht
 Wartezimmer, Anträge, Ablehnungen. Blicke im Supermarkt und auf dem Spielplatz. Die Erschöpfung, die eine Ehe zerbrechen lässt, und die Einsamkeit eines Vaters, der jeden Tag kämpft und trotzdem als Versager gilt. Ein Bericht ohne Beschönigung.
 
 Eine Sprache ohne Worte
-Elias spricht nicht. Aber er kommuniziert: durch Blicke, durch Hände, durch die Art, wie er sich wiegt. Dieses Buch zeigt, wie ein Vater lernt, dieses Schweigen zu lesen, und warum ein Wohnheim ein Akt der Liebe sein kann und keine Abschiebung.
+Elias spricht nicht. Aber er kommuniziert: durch Blicke, durch Hände, durch die Art, wie er sich wiegt. Dieses Buch zeigt, wie ein Vater lernt, dieses Schweigen zu lesen, und warum ein Wohnheim der Ort sein kann, an dem ein Kind endlich atmen kann.
 
 
 Modul 1: Standard-Text mit Kopfbild (970 x 600 Pixel)
@@ -26,7 +26,11 @@ Modul-Titel Option 4: Zwischen Diagnose und bedingungsloser Liebe
 
 Titel: Mit den Augen eines Vaters
 
-Text: Ein Vater. Ein Sohn. Und die Liebe, die bleibt. Asterios Raptis erzählt von Elias: Typ-1-Diabetes mit anderthalb Jahren, Autismus, Epilepsie. Von Nächten auf der Intensivstation, von Behörden, die mauern, und von einer Ehe, die zerbricht. Kein medizinischer Ratgeber, sondern eine wahre Geschichte über bedingungslose Liebe.
+Text: Ein Vater. Ein Sohn. Und die Liebe, die bleibt.
+
+Asterios Raptis erzählt die Geschichte seines Sohnes Elias, dessen Leben schon früh von Typ-1-Diabetes, Autismus und Epilepsie geprägt wird. Von Nächten auf der Intensivstation, von Auseinandersetzungen mit Behörden und von einer Ehe, die zerbricht. Und von einem Vater, der vor Entscheidungen steht, die sein Leben für immer verändern.
+
+Kein medizinischer Ratgeber, sondern eine wahre Geschichte über bedingungslose Liebe, Verantwortung und die Kraft, weiterzugehen, wenn das Leben alles abverlangt.
 
 Bild-Prompt: intimate close-up of an adult hand gently holding a small child's hand on a white hospital bedsheet, soft warm morning light through a window, shallow depth of field, muted blue and warm amber tones, tender documentary photography style, no faces visible, quiet dignity, no text --ar 97:60 --v 6.1 --style raw --q 2
 
@@ -40,7 +44,7 @@ Modul-Titel Option 2: Vom Krankenhaus nach Hause
 Modul-Titel Option 3: Was bleibt, wenn alles zerbricht
 
 Bild 1 Titel: Drei Diagnosen, ein Leben
-Bild 1 Text: Mit anderthalb Jahren Typ-1-Diabetes. Mit vier Jahren wird erkennbar, dass Elias anders ist. Später kommen epileptische Anfälle. Dieses Buch erzählt, wie aus einem gesunden Kind ein Patient wird und wie das Krankenhaus zum zweiten Zuhause einer Familie wird.
+Bild 1 Text: Mit anderthalb Jahren Typ-1-Diabetes. Mit vier Jahren wird erkennbar, dass Elias anders ist. Später kommen epileptische Anfälle. Dieses Buch erzählt, wie drei Diagnosen den Alltag einer Familie neu ordnen und wie das Krankenhaus zu ihrem zweiten Zuhause wird.
 Bild 1 Prompt: quiet hospital room at night, a glowing medical monitor beside a small empty child's bed, soft blue screen light mixing with warm corridor light, shallow focus, documentary photography style, no people visible, atmosphere of vigil and care, no text --ar 1:1 --v 6.1 --style raw --q 2
 Bild 1 ALT-Text: Stilles Krankenzimmer bei Nacht, Monitor leuchtet neben kleinem Bett, blaues und warmes Licht.
 
